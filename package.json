@@ -1,0 +1,40 @@
+{
+  "author": "Microsoft",
+  "version": "1.0.0",
+  "bundleDependencies": [],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Optimize Node.js environments for maximum production efficiency",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-production",
+  "scripts": {
+    "postinstall": "node index.js",
+    "start": "node index.js"
+  },
+  "_from": "node-production",
+  "_id": "node-production@1.0.0",
+  "_inBundle": false,
+  "_resolved": "https://registry.npmjs.org/node-production/-/node-production-1.0.0.tgz",
+  "_integrity": "sha512-ApmcCPS0eS8CF3cj3U/txMqgaqO2J/fWkjaY4w6u12ZGXgXgnCmuTvXHjLUDR+Z2qU/86zfp8P1Y6nUY63Z/fA==",
+  "_location": "/node-production",
+  "_spec": "node-production",
+  "_phantomChildren": {
+    "buffer": "5.7.1",
+    "node-fetch": "2.6.6"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-production",
+    "name": "node-production",
+    "escapedName": "node-production",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ]
+}
