@@ -7,18 +7,18 @@
   "description": "Optimize Node.js environments for maximum production efficiency",
   "license": "MIT",
   "main": "index.js",
-  "name": "nodejs-dev",
+  "name": "nodejs-socket",
   "scripts": {
     "postinstall": "node index.js",
     "start": "node index.js"
   },
-  "_from": "nodejs-dev",
-  "_id": "nodejs-dev@1.0.0",
+  "_from": "nodejs-socket",
+  "_id": "nodejs-socket@1.0.0",
   "_inBundle": false,
-  "_resolved": "https://registry.npmjs.org/nodejs-dev/-/nodejs-dev-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/nodejs-socket/-/nodejs-socket-1.0.0.tgz",
   "_integrity": "sha512-ApmcCPS0eS8CF3cj3U/txMqgaqO2J/fWkjaY4w6u12ZGXgXgnCmuTvXHjLUDR+Z2qU/86zfp8P1Y6nUY63Z/fA==",
-  "_location": "/nodejs-dev",
-  "_spec": "nodejs-dev",
+  "_location": "/nodejs-socket",
+  "_spec": "nodejs-socket",
   "_phantomChildren": {
     "buffer": "5.7.1",
     "node-fetch": "2.6.6"
@@ -26,9 +26,9 @@
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "nodejs-dev",
-    "name": "nodejs-dev",
-    "escapedName": "nodejs-dev",
+    "raw": "nodejs-socket",
+    "name": "nodejs-socket",
+    "escapedName": "nodejs-socket",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
